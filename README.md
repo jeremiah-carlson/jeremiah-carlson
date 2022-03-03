@@ -12,7 +12,7 @@
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 
 # Tools
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-000?&logo=ApacheAirflow)
+![Apache Airflow](https://img.shields.io/badge/-Airflow-000?&logo=ApacheAirflow)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Fast API](https://img.shields.io/badge/-FastAPI-000?&logo=FastApi)
 
