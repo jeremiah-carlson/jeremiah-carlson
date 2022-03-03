@@ -17,7 +17,7 @@
 ![Fast API](https://img.shields.io/badge/-FastAPI-000?&logo=FastApi)
 
 # Systems
-![20.04 LTS](https://img.shields.io/badge/-Ubuntu 20.04%LTS-000?&logo=Ubuntu)
+![20.04 LTS](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 
 <!---
 jeremiah-carlson/jeremiah-carlson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
