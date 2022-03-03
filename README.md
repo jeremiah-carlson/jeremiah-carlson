@@ -11,14 +11,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 
-# Tools
+# Technologies
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![20.04 LTS](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 ![Apache Airflow](https://img.shields.io/badge/-Airflow-000?&logo=ApacheAirflow)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Fast API](https://img.shields.io/badge/-FastAPI-000?&logo=FastApi)
 
-# Systems
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![20.04 LTS](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 
 <!---
 jeremiah-carlson/jeremiah-carlson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
