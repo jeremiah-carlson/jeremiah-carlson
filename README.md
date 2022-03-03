@@ -11,6 +11,14 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
 
+# Tools
+![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-000?&logo=ApacheAirflow)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Fast API](https://img.shields.io/badge/-FastAPI-000?&logo=FastApi)
+
+# Systems
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
 <!---
 jeremiah-carlson/jeremiah-carlson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
