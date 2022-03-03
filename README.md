@@ -17,6 +17,7 @@
 ![Fast API](https://img.shields.io/badge/-FastAPI-000?&logo=FastApi)
 
 # Systems
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![20.04 LTS](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 
 <!---
