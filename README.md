@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @jeremiah-carlson
-- 👀 I’m interested in ... Clustering Algorithms, Random Forest Classification, and API Integration
-- 🌱 I’m currently learning ... Flask
-- 💞️ I’m looking to collaborate on ... Machine Learning Projects
-- 📫 How to reach me ...
 
 
 # Languages
