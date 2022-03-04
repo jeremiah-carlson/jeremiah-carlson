@@ -12,6 +12,7 @@
 ![Plotly](https://img.shields.io/badge/-Plotly-000?&logo=Plotly)
 ![Apache Airflow](https://img.shields.io/badge/-Airflow-000?&logo=ApacheAirflow)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Bootstrap 5](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![Fast API](https://img.shields.io/badge/-FastAPI-000?&logo=FastApi)
 
 # Where to find me
