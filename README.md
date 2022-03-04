@@ -16,6 +16,7 @@
 
 # Where to find me
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-000?&logo=StackOverflow)](https://stackoverflow.com/users/16317300/j-carlson?tab=profile)
+![Linkedin](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)
 
 
 
