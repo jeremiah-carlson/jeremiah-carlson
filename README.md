@@ -8,19 +8,15 @@
 
 # Technologies
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![20.04 LTS](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
-![Plotly](https://img.shields.io/badge/-Plotly-000?&logo=Plotly)
 ![Apache Airflow](https://img.shields.io/badge/-Airflow-000?&logo=ApacheAirflow)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Bootstrap 5](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![Fast API](https://img.shields.io/badge/-FastAPI-000?&logo=FastApi)
 
 # Where to find me
+[![Linkedin](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://www.linkedin.com/in/jeremiah-carlson-26b4611a1)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-000?&logo=StackOverflow)](https://stackoverflow.com/users/16317300/j-carlson?tab=profile)
-<!--
-[![Linkedin](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)]()
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-000?&logo=Hackerrank)]()
--->
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-000?&logo=Hackerrank)](https://www.hackerrank.com/j_a_carlson_93)
 
 
 <!---
