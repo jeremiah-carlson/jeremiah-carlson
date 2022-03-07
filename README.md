@@ -8,10 +8,10 @@
 
 # Technologies
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Apache Airflow](https://img.shields.io/badge/-Airflow-000?&logo=ApacheAirflow)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Bootstrap 5](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-![Fast API](https://img.shields.io/badge/-FastAPI-000?&logo=FastApi)
+[![Apache Airflow](https://img.shields.io/badge/-Airflow-000?&logo=ApacheAirflow)](https://airflow.apache.org/)
+[![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)](https://www.docker.com/why-docker)
+[![Bootstrap 5](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)](https://getbootstrap.com/)
+[![Fast API](https://img.shields.io/badge/-FastAPI-000?&logo=FastApi)](https://fastapi.tiangolo.com/)
 
 # Where to find me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://www.linkedin.com/in/jeremiah-carlson-26b4611a1)
