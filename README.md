@@ -8,6 +8,7 @@
 
 # Technologies
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)](https://ubuntu.com/)
+[![Plotly](https://img.shields.io/badge/-Plotly-000?&logo=Plotly)](https://plotly.com/)
 [![Apache Airflow](https://img.shields.io/badge/-Airflow-000?&logo=ApacheAirflow)](https://airflow.apache.org/)
 [![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)](https://www.docker.com/why-docker)
 [![Bootstrap 5](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)](https://getbootstrap.com/)
