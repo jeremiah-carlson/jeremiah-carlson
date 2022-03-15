@@ -5,6 +5,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
+![LaTeX](https://img.shields.io/badge/-LaTeX-000?&logo=LaTeX)
+
 
 # Technologies
 [![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)](https://ubuntu.com/)
