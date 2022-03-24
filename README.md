@@ -16,7 +16,7 @@
 [![Bootstrap 5](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)](https://getbootstrap.com/)
 [![Fast API](https://img.shields.io/badge/-FastAPI-000?&logo=FastApi)](https://fastapi.tiangolo.com/)
 
-<--
+<!--
 # Projects
 Coming soon ...
 -->
