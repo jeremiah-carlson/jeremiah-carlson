@@ -16,6 +16,12 @@
 [![Bootstrap 5](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)](https://getbootstrap.com/)
 [![Fast API](https://img.shields.io/badge/-FastAPI-000?&logo=FastApi)](https://fastapi.tiangolo.com/)
 
+<!--
+# Certifications
+[![IBM Data Science](https://img.shields.io/badge/-IBM%20Data%20Science%20Professional%20Certificate-000?&logo=IBM)](https://coursera.org/share/13fecc9fd34bcd122cb4d7e82e5d42bc)
+[![IBM Data Engineering](https://img.shields.io/badge/-IBM%20Data%20Engineering%20Professional%20Certificate-000?&logo=IBM)](https://coursera.org/share/ea399b7b785a97c592f951e008af4dd3)
+-->
+
 # Where to find me
 [![Linkedin](https://img.shields.io/badge/-Linkedin-000?&logo=Linkedin)](https://www.linkedin.com/in/jeremiah-carlson-26b4611a1)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-000?&logo=StackOverflow)](https://stackoverflow.com/users/16317300/j-carlson?tab=profile)
