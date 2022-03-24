@@ -16,6 +16,11 @@
 [![Bootstrap 5](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)](https://getbootstrap.com/)
 [![Fast API](https://img.shields.io/badge/-FastAPI-000?&logo=FastApi)](https://fastapi.tiangolo.com/)
 
+<--
+# Projects
+Coming soon ...
+-->
+
 <!--
 # Certifications
 [![IBM Data Science](https://img.shields.io/badge/-IBM%20Data%20Science%20Professional%20Certificate-000?&logo=IBM)](https://coursera.org/share/13fecc9fd34bcd122cb4d7e82e5d42bc)
