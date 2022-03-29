@@ -32,6 +32,10 @@ Coming soon ...
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-000?&logo=StackOverflow)](https://stackoverflow.com/users/16317300/j-carlson?tab=profile)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-000?&logo=Hackerrank)](https://www.hackerrank.com/j_a_carlson_93)
 
+<!--
+<a href="https://stackoverflow.com/users/16317300/j-carlson" target="_blank"><img alt="StackOverflow" 
+src="https://stackoverflow-badge.vercel.app/?userID=16317300" /></a> 
+-->
 
 <!---
 jeremiah-carlson/jeremiah-carlson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
