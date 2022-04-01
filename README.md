@@ -1,4 +1,4 @@
-
+<b><h1 align="center" >Jeremiah Carlson</h1></b>
 
 # Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -33,12 +33,16 @@ Coming soon ...
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-000?&logo=Hackerrank)](https://www.hackerrank.com/j_a_carlson_93)
 
 <!--
-<a href="https://stackoverflow.com/users/16317300/j-carlson" target="_blank"><img alt="StackOverflow" 
-src="https://stackoverflow-badge.vercel.app/?userID=16317300" /></a> 
--->
 
-<!--
+<div align="center">
+<a align="center" href="https://stackoverflow.com/users/16317300/j-carlson" target="_blank"><img alt="StackOverflow" 
+src="https://stackoverflow-badge.vercel.app/?userID=16317300" /></a> 
+</div>
+
+
+
 [![Jeremiah's github activity graph](https://activity-graph.herokuapp.com/graph?username=jeremiah-carlson&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 -->
 
 <!---
