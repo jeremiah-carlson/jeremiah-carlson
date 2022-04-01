@@ -1,4 +1,9 @@
-<b><h1 align="center" >Jeremiah Carlson</h1></b>
+<div align="center">
+  <img src="assets/market.gif"  width="400" height="200" />
+</div>
+<hr>
+
+<!--<b><h1 align="center" >Jeremiah Carlson</h1></b>-->
 
 # Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
