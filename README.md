@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="assets/market.gif"  width="400" height="200" />
+#<div align="center">
+  <H1>Jeremiah Carlson</H2>
 </div>
 <hr>
 
