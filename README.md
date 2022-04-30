@@ -1,7 +1,6 @@
-#<div align="center">
+<div align="center">
   <H1>Jeremiah Carlson</H2>
 </div>
-<hr>
 
 <!--<b><h1 align="center" >Jeremiah Carlson</h1></b>-->
 
