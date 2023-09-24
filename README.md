@@ -35,6 +35,8 @@ Coming soon ...
 [![IBM Data Science](https://img.shields.io/badge/Data%20Science-052FAD?logo=ibm&logoColor=fff&style=for-the-badge)](https://coursera.org/share/13fecc9fd34bcd122cb4d7e82e5d42bc)
 [![IBM Data Engineering](https://img.shields.io/badge/Data%20Engineering-052FAD?logo=ibm&logoColor=fff&style=for-the-badge)](https://coursera.org/share/ea399b7b785a97c592f951e008af4dd3)
 [![Redis Certified Developer](https://img.shields.io/badge/Redis%20Certified%20Developer-DC382D?logo=redis&logoColor=fff&style=for-the-badge)](https://www.credential.net/65bb5d01-6c2d-4309-81f0-7bebd452104b)
+![AZ-900](https://img.shields.io/badge/Azure%20Fundamentals-0078D4?logo=microsoftazure&logoColor=fff&style=for-the-badge)
+
 
 
 # Where to find me
